@@ -1,0 +1,1 @@
+# SSO Authentication into Plex Apps for Laravel
